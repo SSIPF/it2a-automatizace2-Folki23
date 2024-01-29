@@ -1,0 +1,3 @@
+Frantisek Lopata,heslo1,skupina1
+Michal Foltan,heslo2,skupina2
+Pepa Loupak,heslo3,skupina3
